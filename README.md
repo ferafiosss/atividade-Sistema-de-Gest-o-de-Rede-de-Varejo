@@ -2,7 +2,7 @@
 
 **Pedro Eduardo Paiva Meireles**
 RA: R8699H4
-Atividade Prática Integradora 2026
+Atividade Prática - 2026
 
 # CODIGO BURGUER — Sistema de Gestão de Rede de Varejo Alimentício
 
