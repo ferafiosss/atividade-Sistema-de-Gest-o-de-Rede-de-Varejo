@@ -6,7 +6,7 @@ Atividade Prática - 2026
 
 # CODIGO BURGUER — Sistema de Gestão de Rede de Varejo Alimentício
 
-Sistema web para gerenciamento de uma rede de varejo alimentício com múltiplas unidades, desenvolvido como Atividade Prática Integradora 2026/1. Cobre PDV com processamento rápido, controle de perecíveis com alertas de validade e temperatura, reposição automática de estoque, programa de fidelidade, relatórios consolidados e log de auditoria.
+Sistema web para gerenciamento de uma rede de varejo alimentício com múltiplas unidades, desenvolvido como Atividade Prática Integradora 2026. Cobre PDV com processamento rápido, controle de perecíveis com alertas de validade e temperatura, reposição automática de estoque, programa de fidelidade, relatórios consolidados e log de auditoria.
 
 ---
 
