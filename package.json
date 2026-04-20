@@ -1,0 +1,15 @@
+{
+  "name": "lanche",
+  "version": "1.0.0",
+  "description": "Sistema de Gestão de Rede de Varejo Alimentício",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.0",
+    "sql.js": "^1.10.0"
+  }
+}
